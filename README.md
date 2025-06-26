@@ -16,12 +16,8 @@
 -
 
 ## Скриншоты
+## Скриншоты
   ![Валюты: список](screens/Screenshot_1.png =200x)<br/>
   ![Валюты: ввод суммы](screens/Screenshot_2.png =200x)<br/>
   ![Обмен](screens/Screenshot_3.png =200x)<br/>
   ![Транзакции](screens/Screenshot_4.png =200x)<br/>
-
-![Валюты: список](/path/to/image.png =200x)<br/>
-![Валюты: ввод суммы](/path/to/image.png =200x)<br/>
-![Обмен](/path/to/image.png =200x)<br/>
-![Транзакции](/path/to/image.png =200x)<br/>

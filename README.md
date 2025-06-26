@@ -16,7 +16,7 @@
 -
 
 ## Скриншоты
-  ![Валюты: список](screens/Screenshot_1.png)
-  ![Валюты: ввод суммы](screens/Screenshot_2.png)
-  ![Обмен](screens/Screenshot_3.png)
-  ![Транзакции](screens/Screenshot_4.png)
+  ![Валюты: список](screens/Screenshot_1.png){# width=300}<br/>
+  ![Валюты: ввод суммы](screens/Screenshot_2.png){# width=300}<br/>
+  ![Обмен](screens/Screenshot_3.png){# width=300}<br/>
+  ![Транзакции](screens/Screenshot_4.png){# width=300}<br/>
